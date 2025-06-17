@@ -1,2 +1,2 @@
 # aiday2025
-aiday is an annual event in the university of juba which is conducted by the university of juba college of computer science and Information technology
+A Day, an annual event at the University of Juba, is organized by the university's College of Computer Science and Information Technology.
